@@ -1,0 +1,22 @@
+.form-container{
+    padding: 5%;
+    width: 80%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.form-container form{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+label, #select{
+    color:#065D3D;
+    font-size: 1em;
+}
+.form-row{
+    padding: 2%;
+    background-color: #018B71;
+}

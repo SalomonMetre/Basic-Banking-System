@@ -1,0 +1,74 @@
+.left-content {
+    padding: 5%;
+    margin-bottom: 10%;
+}
+
+.left-content .row {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 8%;
+    color: white;
+}
+
+.left-content {
+    background-color: #021C03;
+}
+
+.right-content .row .col-md-6 {
+    border-radius: 20%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background: url("/Images/General/home-banner-scaled.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    left: 0px;
+    position: relative;
+}
+
+header {
+    background: mediumseagreen;
+    height: 75px;
+}
+
+.sign-in {
+    width: fit-content;
+    margin-right: 15px;
+    margin-left: auto;
+    background-color: rgba(18, 75, 68, 1);
+    border-radius: 10px;
+}
+
+.logo-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.co-op-logo {
+    display: inline-block;
+    width: 64px;
+    height: 67px;
+    background: url("/Images/General/co-op-Bank - transparent logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+
+.logo {
+    display: inline-block;
+    color: rgba(18, 75, 68, 1);
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 40px;
+}
+#select{
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+}
